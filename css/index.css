@@ -1,0 +1,30 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+
+button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 30px 50px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 0px;
+}
+
+button:hover {
+    background-color: #65cc7f;
+    border-radius: 5px;
+
+}
+
+.container h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
+
+}
